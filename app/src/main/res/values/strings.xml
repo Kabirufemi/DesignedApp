@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartAfresh</string>
+    <string name="hello_message">Hello From Android!</string>
+    <string name="tvName">Name</string>
+</resources>
